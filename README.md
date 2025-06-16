@@ -61,7 +61,7 @@ Este é um sistema de atendimento para um restaurante do tipo fast-food, desenvo
 1. **Clonar o repositório**
 
 ```bash
-https://github.com/HenriqueJVS/Sistema-de-FastFood.git
+https://github.com/HenriqueJVS/Sistema-de-FastFood/tree/master
 ```
 
 2. **Mover o projeto para o diretório do XAMPP**
